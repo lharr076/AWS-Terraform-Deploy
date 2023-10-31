@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Larry Harris Jr. Cyber Security Blog</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="style.css">
-</head>
-
-<body class="w3-light-grey">
-  <ul class="topnav">
-    <li><a class="active" href="home.html">Home</a></li>
-    <li><a href="webApp.html">AWS Web App</a></li>
-    <!-- <li class="right"><a href="#about">About</a></li> -->
-  </ul>
-
-<div class="w3-content" style="max-width:1400px">
-
-<!-- Header -->
-<header class="w3-container w3-center w3-padding-32"> 
   <h1><b>Deploying a Cyber security homelab using Terraform</b></h1>
   <p>Welcome to the blog of <span class="w3-tag">Larry Harris Jr</span></p>
 </header>
