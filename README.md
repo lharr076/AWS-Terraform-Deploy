@@ -1,16 +1,11 @@
   <h1><b>Deploying a Cyber security homelab using Terraform</b></h1>
   <p>Welcome to the blog of <span class="w3-tag">Larry Harris Jr</span></p>
-</header>
-</div>
 
-<div class="w3-card-4 w3-margin w3-white">
+
   <img src="/images/automation1.png" alt="Automation" style="width:25%">
-  <div class="w3-container">
     <h3><b>Deploying a Cyber security homelab using Terraform</b></h3>
     <h5>Date, <span class="w3-opacity">October 7-8, 2023</span></h5>
-  </div>
-
-  <div class="w3-container">
+  
     <p>Resources used:</p>
     <ul class="resources">
       <li><a href="https://youtu.be/2cMkpLoKUj0?si=AfstrUg3wtZGRXFb">Build a Cloud Red Team / Blue Team Cybersecurity Homelab - Crash Course</a></li>
@@ -18,16 +13,15 @@
       <li><a href="https://learn.microsoft.com/en-us/windows/wsl/install">WSL Install</a></p></li>
     </ul>  
 
-    <div class="w3-row">
+    
       <img src="images/WSL Install.png" alt="WSL Install" style="width: 100%">
       <p>Step1: Install WSL: Open Powershell and type in command "wsl --install" to install the Windows Subsystem for Linux.
         I already have WSL installed so we proceed on to the next step. </p></br>
-      <div class="w3-container w3-cell">
+      
         <img src="images/git clone .png" alt="Git Install and Clone" style="width: 100%">
-      </div>
-      <div class="w3-container w3-cell">
+      
       <img src="images/terraform main_tf file.png" alt="Terraform File Location" style="width: 100%">
-       </div> 
+        
        <p>Step2:If you do not have Git, you will need to install it in order to download from Github.
         The command to install Git is, <span style="color: green;">sudo apt install git</span> After I installed Git,
          insert command, <span style="color: green;">git clone https://github.com/collinsmc23/cloud-cybersecurity-homelab.git</span>.
@@ -88,9 +82,4 @@
         <p>Step12: As you can see here, all three machines have been terminated to help keep your cost down.</p>
       <div class="w3-col m4 w3-hide-small">
         <p><span class="w3-padding-large w3-right"><b></b> <span class="w3-tag"></span></span></p>
-      </div>
-    </div>
-  </div>
-</div>
-</body>
-</html>
+
