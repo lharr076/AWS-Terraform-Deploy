@@ -1,7 +1,10 @@
- <h1>Deploying a Cyber security homelab using Terraform</h1>
+ <h1>Deploying a Cyber security homelab using Terraform</h1> <br />
+ <p align="center">
+ This was my first time experiencing the power of Terraform and I really enjoyed doing this project. With this project, it help me see what's under the hood when it comes to IaC.
  <br />
  <br />
-    <p align="center">
+ <br />
+ <p align="center">   
 Launch the utility: Step1: Install WSL: Open Powershell and type in command "wsl --install" to install the Windows Subsystem for Linux. I already have WSL installed so we proceed on to the next step.  <br/>
 <img src="https://i.imgur.com/5htnIkE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
