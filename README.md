@@ -1,4 +1,4 @@
- <h1>Deploying a Cyber security homelab using Terraform</h1> <br />
+ <h1>Cybersecurity Home Lab Deployment Utilizing Terraform</h1> <br />
  <p align="center">
  This was my first time experiencing the power of Terraform and I really enjoyed doing this project. With this project, it help me see what's under the hood when it comes to IaC.
  <br />
